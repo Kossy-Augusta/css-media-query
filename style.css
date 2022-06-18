@@ -130,7 +130,7 @@ img {
   color: var(--Red);
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1100px) {
   .page-center {
     display: flex;
     justify-content: center;
